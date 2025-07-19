@@ -11,6 +11,8 @@ The system uses trained CNN and hybrid deep learning models and offers an easy-t
 ---
 
 **Project Structure**
+
+
 ├── app.py # Main Flask app
 ├── predict_armd.py # Prediction function for ARMD
 ├── predict_dr.py # Prediction function for DR
